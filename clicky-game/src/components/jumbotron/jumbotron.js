@@ -1,10 +1,10 @@
 import React from 'react';
 import './jumbotron.css';
 
-cost jumbotron = () => {
+const Jumbotron = () => {
     return (
         <div></div>
     );
 };
 
-export default jumbotron;
+export default Jumbotron;

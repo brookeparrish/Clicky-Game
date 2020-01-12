@@ -1,9 +1,13 @@
 import React from 'react';
-import './navbar.css';
+import './Navbar.css';
 
-const Navbar = () => {
+const Navbar = (props) => {
     return (
-        <div></div>
+        <ul>
+            <li>Clicky Game</li>
+            <li>Click an image to begin!</li>
+            <li>Score:</li>
+        </ul>
     );
 };
 

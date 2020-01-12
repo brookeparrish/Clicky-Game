@@ -1,50 +1,50 @@
 [
     {
       "id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVkRdUQpbdWSYYiAa0U7bfY-_rr8ZzMjVDNvzUtZXtpn0shQEAxA&s"
+      "image": "images/1_275x183.jpg"
     },
     {
       "id": 2,
-      "image": "https://wegotthiscovered.com/wp-content/uploads/dwight-impersonation-the-office.png"
+      "image": "images/2_275x183.jpg"
     },
     {
       "id": 3,
-      "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626"
+      "image": "images/3_275x183.jpg"
     },
     {
       "id": 4,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDLr1z6KlBYdRtW1fTucFHsGJUazEe2aHl-z4Z58db7tkl8duJ3Q&s"
+      "image": "images/4_275x183.jpg"
     },
     {
       "id": 5,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyf7KjL5_76iJCDtS-tfZqbM1IlVqyjyyiAH7LS6z7uN8fqSEH&s"
+      "image": "images/5_275x183.jpg"
     },
     {
       "id": 6,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ouSTYuONAd_uofJjBtuE0FDSNkxHnwVCtU9vU53CEHBEtTLO&s"
+      "image": "images/6_1_275x183.jpg"
     },
     {
         "id": 7,
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRofps2lKOG-BMgAQHaIS4o4O4YVaGMfuvcaApRsyaZCkUql-WzVQ&s"
+        "image": "images/7_275x183.jpg"
       },
       {
         "id": 8,
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0tpE06D9e8tKY3NVoc7NB-uEMKJVZ21um77iNeQ9LBqCmg9Hf_A&s"
+        "image": "images/8_275x183.jpg"
       },
       {
         "id": 9,
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPyYq6OSm7YplMZ_6iqpnGg3ruEQxZSfA9vEjx62nJIZtmpnAPIA&s"
+        "image": "images/9_275x183.jpg"
       },
       {
         "id": 10,
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPyYq6OSm7YplMZ_6iqpnGg3ruEQxZSfA9vEjx62nJIZtmpnAPIA&s"
+        "image": "images/10_275x183.jpg"
       },
       {
         "id": 11,
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD55_QqyT8wudgU4dPnqu2Dgj5sRsxd9dfKxCAMR61RVei0ZiqLg&s"
+        "image": "images/11_275x183.jpg"
       },
       {
         "id": 12,
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKoa7TUpvx0gw0twfFX6NGPEd1MiQDWHK66paoGShhPe0INxDa&s"
+        "image": "images/12_275x183.jpg"
       }    
   ]

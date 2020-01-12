@@ -1,10 +1,12 @@
 import React from 'react';
 import './cards.css';
 
-const card = () => {
+const Card = (props) => {
     return (
-        <div></div>
+        <div className="col-3">
+            <img className="img-fluid pb-2" src={props.image} />
+        </div>
     );
 };
 
-export default card;
+export default Card;

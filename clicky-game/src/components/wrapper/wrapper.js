@@ -1,10 +1,10 @@
 import React from 'react';
 import './wrapper.css';
 
-cost wrapper = () => {
+const Wrapper = (props) => {
     return (
-        <div className="wrapper"></div>
+        <div className="wrapper">{props.children}</div>
     );
 };
 
-export default wrapper;
+export default Wrapper;

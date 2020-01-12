@@ -1,24 +1,37 @@
 import React, { Component } from 'react';
-import wrapper from '../wrapper/wrapper';
+import Wrapper from '../wrapper/wrapper';
 import Navbar from '../navbar/Navbar';
-import jumbotron from '../jumbotron/jumbotron';
-import cards from '../cards/cards';
-import footer from '../footer/footer';
+import Jumbotron from '../jumbotron/jumbotron';
+import Cards from '../cards/cards';
+import Footer from '../footer/footer';
+import cards from '../../cards.json';
 
-class cardContainer extends Component {
+class CardContainer extends Component {
+    state = {
+        cards
+    };
+
     render () {
         return (
-            <wrapper>
+            <Wrapper>
                 <Navbar />
-                    <jumbotron />
-                        {
-                            <cards />
-                        }
-                        <footer />
-            </wrapper>
-            
+                <Jumbotron />
+                <div className="row">
+                    {
+                        this.state.cards.map(card => (
+                            <Cards
+                            id={card.id}
+                            key={card.id}
+                            image={card.image} />
+
+                        ))
+                    }
+                </div>
+                <Footer />
+
+            </Wrapper>
         );
     };
 };
 
-export default cardContainer;
+export default CardContainer;
