@@ -16,7 +16,7 @@ class CardContainer extends Component {
             <Wrapper>
                 <Navbar />
                 <Jumbotron />
-                <div className="row">
+                <div className="row mx-auto">
                     {
                         this.state.cards.map(card => (
                             <Cards

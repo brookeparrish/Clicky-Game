@@ -3,7 +3,11 @@ import './footer.css';
 
 const Footer = () => {
     return (
-        <div></div>
+        <div className="row w-100 sticky-bottom pb-4 text-center">
+            <div className="col">
+                Clicky Game
+            </div>
+        </div>
     );
 };
 
